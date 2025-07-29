@@ -102,7 +102,7 @@ WHERE
 ## Data Visualization (Tableau)
 
 - Designed and built an interactive dashboard in **Tableau Public** to visually represent the findings.
-  ![
+  ![Dashboard Screenshot](Nrb_KPI.png)
 - Developed key performance indicators (KPIs) to highlight total counts.
 - Created comparative bar charts to show relative distribution across sub-counties.
 - Implemented scatter plots to analyze relationships (e.g., religious centers vs. development centers).
