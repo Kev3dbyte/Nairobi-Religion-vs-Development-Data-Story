@@ -67,7 +67,7 @@ out center;
 ```
 
 
-* **Youth Population:** Used Kenya National Bureau of Statictics (KNBS) census 2019 data of youth population data (ages 15-35) per Nairobi sub-county. [KNBS website](https://www.knbs.or.ke/reports/kenya-census-2019/)
+* **Youth Population:** Used Kenya National Bureau of Statictics (KNBS) census 2019 data of youth population data (ages 15-35) per Nairobi sub-county. [KNBS 2019 Census Data](Data/raw_data/2019-Kenya-population-and-Housing-Census-Volume-3-Distribution-of-Population-by-Age-and-Sex.pdf)
 * **Geospatial Data:** Sub-county boundaries of Nairobi for mapping.
 
 ## Methodology
