@@ -155,7 +155,7 @@ WHERE
 ## Limitations
 
 **Data Scarcity/Availability:** Difficulty in finding comprehensive, readily available and standardized data for all relevant development indicators across Nairobi sub-counties.
-- The project relied heavily on OpenStreetMap (OSM) which a volunteer-driven platform for sourcing location data of religious centers, industries, and institutions. However, since OSM relies on community contributions, it may not capture all existing centers of interest leading to potential underrepresentation.
+- The project relied heavily on OpenStreetMap (OSM) which is a volunteer-driven platform for sourcing location data of religious centers, industries, and institutions. However, since OSM relies on community contributions, it may not capture all existing centers of interest leading to potential underrepresentation.
 - To illustrate this limitation, in one ground truthing condusted in Embakasi subcounty, I can physically counted over 7+ churches within a 500-meter radius, yet the scraped OSM data for the entire Embakasi subcounty records only around 200 churches. This highlights the inherent data scarcity challenge when using volunteer-tagged geospatial data especially in urban contexts where mapping is often incomplete.
 
 **Data Quality & Consistency:** Significant challenges with messy, inconsistent, and unstructured data from scraped sources, requiring extensive manual and SQL-based cleaning.
