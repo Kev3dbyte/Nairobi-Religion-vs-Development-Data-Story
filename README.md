@@ -73,7 +73,7 @@ out center;
 ## Methodology
 
 1.  **Data Acquisition:**
-* Utilized web scraping techniques to collect raw data on various establishments.
+* Utilized web scraping techniques OpenSteetMap (OSM) to collect raw data on various establishments.
 * Aggregated Nairobi youth population from KNBS 2019 census as per sub-county boundary data.
 2.  **Spatial Data Assignment (GeoJSON Mapping with Python)**
 
