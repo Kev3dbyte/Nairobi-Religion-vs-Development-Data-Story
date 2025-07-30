@@ -1,4 +1,6 @@
-# Nairobi Youth Development & Opportunity Imbalance: A Data Story
+# Hope vs Development: A Data Story
+
+### *Comparing Nairobi Religion vs Development Indicators*
 
 ## Table of Contents
 - [Project Overview](#project-overview)
