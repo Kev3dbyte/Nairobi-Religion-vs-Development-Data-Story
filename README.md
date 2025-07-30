@@ -88,7 +88,7 @@ ii. Using Python scripts, I performed a Point-in-Polygon spatial join, mapping e
 iii. This process ensured every facility was accurately categorized under its administrative subcounty, enabling precise aggregation and visualization.
   
 3. **Data Cleaning & Preprocessing**
-   - **Initial Cleaning:** Performed extensive data cleaning in Microsoft Excel using various functions such as TRIM(), CONCATENATE(), UPPER(), LOWER(), REMOVE DUPLICATES Tool, Data Validation, Filter & Advanced Filter to handle inconsistencies, missing values, and formatting issues which is inherent in scraped data.
+   - **Initial Cleaning:** Performed extensive data cleaning in Microsoft Excel using various functions such as TRIM(), CONCATENATE(), UPPER(), LOWER(), REMOVE DUPLICATES, Data Validation, Filter & Advanced Filter to handle inconsistencies, missing values, and formatting issues which is inherent in scraped data.
    - **Transformation & Aggregation:** Utilized SQL (Structured Query Language) for more complex data transformations and aggregations such as counting centers per sub-county, calculating ratios per 10,000 youth), and merging disparate datasets. This ensured handling messy data and ensuring data integrity.
 4. **Data Analysis & Feature Engineering:**
      - Calculated key metrics such as "Religious Centers per 10,000 Youth," "Development Centers (Industries + Institutions) per 10,000 Youth.
@@ -158,7 +158,7 @@ WHERE
 
 **Data Scarcity/Availability:** Difficulty in finding comprehensive, readily available and standardized data for all relevant development indicators across Nairobi sub-counties.
 - The project relied heavily on OpenStreetMap (OSM) which is a volunteer-driven platform for sourcing location data of religious centers, industries, and institutions. However, since OSM relies on community contributions, it may not capture all existing centers of interest leading to potential underrepresentation.
-- To illustrate this limitation, in one ground truthing conducted in Embakasi subcounty, I can physically counted over 7+ churches within a 500-meter radius, yet the scraped OSM data for the entire Embakasi subcounty records only around 200 churches. This highlights the inherent data scarcity challenge when using volunteer-tagged geospatial data especially in urban contexts where mapping is often incomplete.
+- To illustrate this limitation, in one ground truthing conducted in Embakasi subcounty, I physically counted over 10+ churches within a 500-meter radius, yet the scraped OSM data for the entire Embakasi subcounty records only around 200 churches. This highlights the inherent data scarcity challenge when using volunteer-tagged geospatial data especially in urban contexts where mapping is often incomplete.
 
 **Data Quality & Consistency:** Significant challenges with messy, inconsistent, and unstructured data from scraped sources, requiring extensive manual and SQL-based cleaning.
 
