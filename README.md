@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-This project explores the relationship between religious center density—industries and empowermwnt centers and youth population across sub-counties in Nairobi, Kenya. It aims to visualize and analyze the disparities, particularly focusing on the apparent imbalance where "hope" represented by religious centers is everywhere, but opportunities represented by industries and empowerment centers are "scarce" for the youth which suggest an underinvestment in critical development sectors compared to religious infrastructure.
+This project explores the relationship between religious center density—industries and empowermwnt centers and youth population across sub-counties in Nairobi, Kenya. It aims to visualize and analyze the disparities, particularly focusing on the apparent imbalance where "hope" represented by religious centers is everywhere, but "opportunities" represented by industries and empowerment centers are scarce for youths which suggest an underinvestment in critical development sectors compared to religious infrastructure.
 
 **Explore the full interactive dashboard on Tableau Public here:**
 [Dashboard](https://public.tableau.com/shared/BNY5TQCMY?:display_count=n&:origin=viz_share_link)
@@ -80,7 +80,7 @@ out center;
 While the scraped data contained only longitude and latitude coordinates, it was essential to assign each point (religious centers, industries, institutions) to their respective Nairobi subcounties.
 
 To achieve this:
-i. I obtained a [GeoJSON file]() with Nairobi subcounty polygon boundaries.
+i. I obtained a [GeoJSON file](Data/raw_data/Nairobi_Subcounties.geojson) with Nairobi subcounty polygon boundaries.
 ii. Using **Python scripts**, I performed a **Point-in-Polygon spatial join**, mapping each lat/lon coordinate to its corresponding subcounty.
 iii. This process ensured every facility was accurately categorized under its administrative subcounty, enabling precise aggregation and visualization.
   
@@ -157,13 +157,13 @@ WHERE
 
 **Data Quality & Consistency:** Significant challenges with messy, inconsistent, and unstructured data from scraped sources, requiring extensive manual and SQL-based cleaning.
 
-**Missing Values:** Dealing with gaps in the data that needed careful handling (e.g., imputation, exclusion, or noting their absence).
+**Missing Values:** Dealing with gaps in the data that needed careful handling such as imputation, exclusion, or noting their absence.
 
-**Geospatial Granularity:** Potential limitations in the precision of geospatial data or sub-county definitions, affecting mapping accuracy.
+**Geospatial Granularity:** Potential limitations in the precision of geospatial data or sub-county definitions which affect mapping accuracy.
 
-**Definition of "Development":** The scope of "development" was limited to industries and empowerment centers, and did not include other crucial factors (e.g., healthcare, education infrastructure, public services) due to data availability.
+**Definition of "Development":** The scope of "development" was limited to industries and empowerment centers, and did not include other crucial factors of human development index such as healthcare, education infrastructure and public services due to data availability.
 
-**Youth Population Data:** Reliance on outdated data (census 2019) which might not capture the current realities of economic situation at a finer level.
+**Youth Population Data:** Reliance on outdated data (census 2019) which might not capture the current realities or economic situation at a finer level.
 
 **Scope Limitation:** The project focused solely on Nairobi, limiting generalizability to other urban or rural areas in Kenya.
 
@@ -190,12 +190,10 @@ WHERE
 The next phase of this comprehensive project aims to broaden the scope by examining development dynamics in Japan and China. These nations offer a compelling comparative study, given their high levels of development and distinct societal approaches to religion.
 
 **This comparative analysis will investigate:**
+- Youth Unemployment Rates: How do these nations compare in addressing youth unemployment?
+- Religious vs. Development Infrastructure: A detailed comparison of the density and distribution of religious centers versus formal development infrastructure (industries and empowerment centers).
 
-Youth Unemployment Rates: How do these nations compare in addressing youth unemployment?
-
-Religious vs. Development Infrastructure: A detailed comparison of the density and distribution of religious centers versus formal development infrastructure (industries and empowerment centers).
-
-Through this expanded analysis, the overarching goal is to explore the hypothesis that while some African countries prioritize "hope" (manifested by religious infrastructure), there is a potential underinvestment or divergent focus on tangible economic development avenues, such as industrial growth and skill-building initiatives. This comparison will seek to uncover alternative development models and highlight potential areas for strategic investment in African contexts.
+This comparative analysis will test the hypothesis that African societies often invest more in “hope-driven” religious infrastructure while underinvesting in industrial growth and skill development. Given Africa’s heavy reliance on imports and weak export base, this study aims to highlight alternative development models and identify strategic areas where Africa can shift focus for sustainable growth.
 
 ## Definition of Terms
 
