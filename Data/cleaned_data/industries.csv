@@ -1,0 +1,442 @@
+street,company_name,lon,lat,landuse,county,subcounty,type
+mombasa road,mombasa road industrial area,36.8915176,-1.3431107,industrial,nairobi city,langata,industry
+unknown,aga khan field,36.8239658,-1.2604329,industrial,nairobi city,westlands,industry
+unknown,unknown industry,36.8405195,-1.3033554,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8707526,-1.3044588,industrial,nairobi city,makadara,industry
+unknown,unknown industry,36.8599662,-1.3187604,industrial,nairobi city,starehe,industry
+landhies road,kenya power substation,36.835574,-1.2872028,industrial,nairobi city,starehe,industry
+unknown,gateway ltd,36.8732819,-1.3182861,industrial,nairobi city,embakasi,industry
+unknown,industiries,36.8849327,-1.3028303,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8710652,-1.3085059,industrial,nairobi city,makadara,industry
+unknown,unknown industry,36.8729363,-1.3204063,industrial,nairobi city,makadara,industry
+unknown,industry,36.8481221,-1.3112406,industrial,nairobi city,embakasi,industry
+unknown,industry,36.8472782,-1.3116437,industrial,nairobi city,embakasi,industry
+unknown,industry,36.8468091,-1.3115209,industrial,nairobi city,starehe,industry
+unknown,industry,36.8515068,-1.313299,industrial,nairobi city,starehe,industry
+unknown,industry,36.8513839,-1.3131776,industrial,nairobi city,starehe,industry
+unknown,industry,36.8419099,-1.3074443,industrial,nairobi city,starehe,industry
+unknown,industry,36.8421203,-1.3071885,industrial,nairobi city,starehe,industry
+unknown,bins (k) ltd,36.8680768,-1.3173966,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8697004,-1.3182205,industrial,nairobi city,starehe,industry
+unknown,kartasi industries,36.860124,-1.3156594,industrial,nairobi city,embakasi,industry
+unknown,industry,36.8419195,-1.3077248,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8676419,-1.326976,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8714566,-1.335243,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8642703,-1.3243707,industrial,nairobi city,makadara,industry
+unknown,unknown industry,36.866079,-1.3203186,industrial,nairobi city,starehe,industry
+unknown,alpha fine foods,36.8591739,-1.319905,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8562881,-1.3178769,industrial,nairobi city,langata,industry
+unknown,industrial area,36.8317325,-1.3007731,industrial,nairobi city,langata,industry
+unknown,industrial area,36.8341336,-1.2995885,industrial,nairobi city,starehe,industry
+unknown,industrial area,36.8309862,-1.3041788,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8676984,-1.3247015,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8651847,-1.324592,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8798925,-1.3384333,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8686784,-1.3322934,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8699181,-1.3315132,industrial,nairobi city,starehe,industry
+unknown,bobmil complex,36.8624746,-1.3325599,industrial,nairobi city,starehe,industry
+unknown,kci - kenya coach industries,36.8623516,-1.3343454,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.8612807,-1.3270921,industrial,nairobi city,langata,industry
+unknown,tononka,36.9025226,-1.320964,industrial,nairobi city,langata,industry
+unknown,unknown industry,36.9128367,-1.1751594,industrial,nairobi city,langata,industry
+unknown,unknown industry,36.9144631,-1.1872842,industrial,nairobi city,langata,industry
+unknown,famers' choice factory,36.9086896,-1.1852851,industrial,nairobi city,langata,industry
+unknown,waste water plant,36.9010747,-1.1741574,industrial,nairobi city,langata,industry
+mombasa road,unknown industry,36.8399824,-1.2227319,industrial,nairobi city,langata,industry
+mombasa road,glaxo smithkline,36.8597366,-1.3099474,industrial,nairobi city,langata,industry
+nairobi park east gate road,unknown industry,36.9757309,-1.2725962,industrial,nairobi city,langata,industry
+nairobi park east gate road,unknown industry,36.9659784,-1.2900403,industrial,nairobi city,langata,industry
+unknown,unknown industry,36.8952874,-1.3343166,industrial,nairobi city,starehe,industry
+unknown,sinohydro construction site kasarani,36.9058738,-1.222788,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.9060294,-1.2243139,industrial,nairobi city,kasarani,industry
+unknown,warren concrete company,36.9067402,-1.2215377,industrial,nairobi city,kasarani,industry
+unknown,central glass industries,36.8872915,-1.2329479,industrial,nairobi city,kasarani,industry
+unknown,tannas tannery,36.8945427,-1.2043483,industrial,nairobi city,kasarani,industry
+unknown,kenbelt industrial park,36.8795636,-1.3326488,industrial,nairobi city,kasarani,industry
+likoni road,unknown industry,36.9051137,-1.3194175,industrial,nairobi city,makadara,industry
+unknown,unknown industry,36.8381318,-1.3148862,industrial,nairobi city,njiru,industry
+unknown,unknown industry,36.8422834,-1.3079731,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.9634028,-1.4373201,industrial,nairobi city,embakasi,industry
+unknown,westlands sub station,36.7995281,-1.2568427,industrial,nairobi city,embakasi,industry
+kasarani mwiki road,rhombus concrete limited,36.8402003,-1.2306205,industrial,nairobi city,kasarani,industry
+unknown,unknown industry,36.8862601,-1.2508229,industrial,nairobi city,kasarani,industry
+kasarani mwiki road,kenya power sub station kileleshwa,36.7866345,-1.2829648,industrial,nairobi city,kasarani,industry
+unknown,printpak,36.8549739,-1.3021352,industrial,nairobi city,kasarani,industry
+unknown,panafrican equipment (kenya) limited,36.8245077,-1.2979698,industrial,nairobi city,kasarani,industry
+old mombosa road,dogbones limted,36.8980866,-1.263612,industrial,nairobi city,langata,industry
+old mombosa road,steel structures limted,36.8962563,-1.2713982,industrial,nairobi city,langata,industry
+unknown,sammer africa limited,36.8660852,-1.3288977,industrial,nairobi city,embakasi,industry
+unknown,isuzu east africa ltd.,36.8722951,-1.327343,industrial,nairobi city,starehe,industry
+unknown,nairobi bottlers,36.9000065,-1.269032,industrial,nairobi city,starehe,industry
+unknown,supa loaf bakery,36.9022322,-1.2669093,industrial,nairobi city,kamukunji,industry
+stima lane,double m yard,36.9041936,-1.2644223,industrial,nairobi city,westlands,industry
+tala road,kenbro industries ltd,36.8835634,-1.3314891,industrial,nairobi city,westlands,industry
+unknown,dhl depot,36.9096407,-1.222508,industrial,nairobi city,embakasi,industry
+unknown,syno hydro company,36.9090587,-1.2244921,industrial,nairobi city,kasarani,industry
+oloitokitok road,ongata works limited,36.9099458,-1.2211736,industrial,nairobi city,westlands,industry
+likoni road,doshi group of companies,36.8852909,-1.3281799,industrial,nairobi city,starehe,industry
+uhuru highway,unknown industry,36.8188828,-1.2368146,industrial,nairobi city,starehe,industry
+unknown,nairobi bottlers,36.9009403,-1.2682182,industrial,nairobi city,njiru,industry
+kangundo road,unknown industry,36.9013672,-1.2597735,industrial,nairobi city,njiru,industry
+mombasa road,unknown industry,36.9445767,-1.2711544,industrial,nairobi city,starehe,industry
+enterprise road,zoa taka & green leaf services,36.8737498,-1.3185549,industrial,nairobi city,embakasi,industry
+enterprise road,unknown industry,36.9758986,-1.2309142,industrial,nairobi city,embakasi,industry
+kangundo road,unknown industry,36.8935456,-1.3291836,industrial,nairobi city,njiru,industry
+kangundo road,unknown industry,36.9045019,-1.3227037,industrial,nairobi city,njiru,industry
+kangundo road,unknown industry,36.9158341,-1.3163111,industrial,nairobi city,njiru,industry
+old mombosa road,unknown industry,36.9113535,-1.3677565,industrial,nairobi city,langata,industry
+old mombosa road,unknown industry,36.8507634,-1.325405,industrial,nairobi city,langata,industry
+kasarani mwiki road,unknown industry,36.8579802,-1.3262433,industrial,nairobi city,kasarani,industry
+kasarani mwiki road,unknown industry,36.8594769,-1.326553,industrial,nairobi city,kasarani,industry
+clay city masournets,bamburi cement,36.9598173,-1.4346324,industrial,nairobi city,kasarani,industry
+mombasa road,unknown industry,37.0035484,-1.2401365,industrial,nairobi city,embakasi,industry
+mombasa road,unknown industry,36.9882701,-1.2417084,industrial,nairobi city,embakasi,industry
+unknown,alpha business park,36.9906584,-1.2405789,industrial,nairobi city,westlands,industry
+kangundo road,kenya pipeline company ltd.- nairobi terminal,36.8736411,-1.3034208,industrial,nairobi city,njiru,industry
+unknown,national cereals & produce board (nairobi silo),36.8865887,-1.3049977,industrial,nairobi city,njiru,industry
+unknown,glaxo smithkline,36.858031,-1.3101056,industrial,nairobi city,njiru,industry
+unknown,unknown industry,36.911112,-1.188048,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.9057757,-1.3663225,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8255718,-1.3270544,industrial,nairobi city,kasarani,industry
+unknown,unknown industry,36.8307477,-1.3266153,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8307772,-1.3267722,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8308094,-1.3269223,industrial,nairobi city,embakasi,industry
+unknown,unknown industry,36.8308289,-1.3270699,industrial,nairobi city,embakasi,industry
+unknown,industries,36.8729355,-1.3202685,industrial,nairobi city,makadara,industry
+unknown,dakawuo transporters,36.8960352,-1.3311271,industrial,nairobi city,starehe,industry
+unknown,acc - accurate steel mills,36.8730871,-1.3167362,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.9090628,-1.3550652,industrial,nairobi city,starehe,industry
+unknown,unknown industry,36.9097652,-1.2371767,industrial,nairobi city,kamukunji,industry
+unknown,kbc radio transmisison site,36.7507516,-1.3564626,industrial,nairobi city,njiru,industry
+unknown,unknown industry,36.7703154,-1.2830033,industrial,nairobi city,kasarani,industry
+unknown,unknown industry,36.8840172,-1.3018151,industrial,nairobi city,kasarani,industry
+unknown,unknown industry,36.7283477,-1.2611265,industrial,nairobi city,makadara,industry
+unknown,nestle kenya ltd,36.8682343,-1.3026407,industrial,nairobi city,makadara,industry
+likoni road,uniliver kenya ltd,36.8381751,-1.2942234,industrial,nairobi city,makadara,industry
+unknown,scrap yard(metal waste),36.9277772,-1.1819836,industrial,nairobi city,kasarani,industry
+unknown,unga group,36.80482163,-1.261030668,industrial,nairobi city,langata,industry
+unknown,east african breweries limited (eabl),36.8822097,-1.237198743,industrial,nairobi city,langata,industry
+unknown,jumia kenya warehousing,36.89395676,-1.3339283,industrial,nairobi city,langata,industry
+unknown,factory street,36.8326862,-1.2948745,industrial,nairobi city,langata,industry
+unknown,factory street,36.8370528,-1.2900647,industrial,nairobi city,langata,industry
+unknown,nairobi bottlers limited,36.9196278,-1.3155496,industrial,nairobi city,langata,industry
+unknown,de la rue kenya limited,36.8649246,-1.2482712,industrial,nairobi city,langata,industry
+unknown,pz cussons east africa ltd.,36.8831567,-1.2426706,industrial,nairobi city,langata,industry
+unknown,unknown,36.9068738,-1.3182167,industrial,nairobi city,langata,industry
+unknown,siginon group,36.9044233,-1.3515122,industrial,nairobi city,langata,industry
+unknown,saku industrial park,36.9042389,-1.3510657,industrial,nairobi city,langata,industry
+unknown,unknown,36.8405195,-1.3033554,industrial,nairobi city,langata,industry
+unknown,unknown,36.8707526,-1.3044588,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8599662,-1.3187604,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8710652,-1.3085059,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.861525,-1.3107454,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8729363,-1.3204063,industrial,nairobi city,embakasi,industry
+unknown,bachu factory - rueben,36.8711759,-1.3224195,industrial,nairobi city,embakasi,industry
+unknown,industry,36.8491217,-1.3116763,industrial,nairobi city,langata,industry
+unknown,bhachu factory - rueben,36.8739135,-1.3178554,industrial,nairobi city,langata,industry
+unknown,unknown,36.8697004,-1.3182205,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8676419,-1.326976,industrial,nairobi city,langata,industry
+unknown,unknown,36.8714566,-1.335243,industrial,nairobi city,langata,industry
+unknown,unknown,36.8607449,-1.3102789,industrial,nairobi city,westlands,industry
+unknown,unknown,36.8642703,-1.3243707,industrial,nairobi city,makadara,industry
+unknown,unknown,36.866079,-1.3203186,industrial,nairobi city,westlands,industry
+unknown,robs magic springs industry,36.8582131,-1.3195625,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8562881,-1.3178769,industrial,nairobi city,starehe,industry
+unknown,magnum industry,36.8557432,-1.3141795,industrial,nairobi city,kasarani,industry
+muthithi rd,government buildings/administration,36.8538318,-1.311269,industrial,nairobi city,westlands,industry
+thika rd,madu paper industry,36.8697719,-1.3101997,industrial,nairobi city,kasarani,industry
+mombasa road,unknown,36.8676984,-1.3247015,industrial,nairobi city,embakasi,industry
+mombasa road,unknown,36.8651847,-1.324592,industrial,nairobi city,langata,industry
+unknown,unknown,36.8798925,-1.3384333,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8686784,-1.3322934,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8699181,-1.3315132,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8612807,-1.3270921,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.9128367,-1.1751594,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.9144631,-1.1872842,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8399824,-1.2227319,industrial,nairobi city,langata,industry
+unknown,unknown,36.9757309,-1.2725962,industrial,nairobi city,langata,industry
+unknown,unknown,36.9659784,-1.2900403,industrial,nairobi city,langata,industry
+unknown,unknown,36.8952874,-1.3343166,industrial,nairobi city,langata,industry
+unknown,unknown,36.9060294,-1.2243139,industrial,nairobi city,westlands,industry
+unknown,east african breweries limited,36.8790551,-1.2358953,industrial,nairobi city,starehe,industry
+unknown,opportnity factory,36.7056024,-1.348175,industrial,nairobi city,makadara,industry
+unknown,unknown,36.9051137,-1.3194175,industrial,nairobi city,starehe,industry
+landhies road,unknown,36.8381318,-1.3148862,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8422834,-1.3079731,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.9634028,-1.4373201,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8862601,-1.2508229,industrial,nairobi city,makadara,industry
+unknown,unga limited,36.8362159,-1.2940028,industrial,nairobi city,makadara,industry
+unknown,inland container depot,36.8802711,-1.3364263,industrial,nairobi city,makadara,industry
+unknown,factory street,36.8370838,-1.2926473,industrial,nairobi city,embakasi,industry
+unknown,factory street,36.8405693,-1.2917805,industrial,nairobi city,embakasi,industry
+unknown,factory street,36.8406222,-1.2916345,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8188828,-1.2368146,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.9013672,-1.2597735,industrial,nairobi city,starehe,industry
+unknown,kibera soweto east zone b (slum upgrading site 2),36.7980608,-1.3157641,industrial,nairobi city,starehe,industry
+unknown,kibera soweto east zone b (slum upgrading site),36.8003273,-1.3157285,industrial,nairobi city,starehe,industry
+unknown,agro manufacturing co. ltd,36.8573209,-1.3055088,industrial,nairobi city,starehe,industry
+unknown,unknown,36.9445767,-1.2711544,industrial,nairobi city,starehe,industry
+unknown,unknown,36.9758986,-1.2309142,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8935456,-1.3291836,industrial,nairobi city,starehe,industry
+unknown,unknown,36.9045019,-1.3227037,industrial,nairobi city,starehe,industry
+unknown,unknown,36.9158341,-1.3163111,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.9113535,-1.3677565,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8746059,-1.331262,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8744403,-1.330628,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8663216,-1.3281538,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8507634,-1.325405,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8579802,-1.3262433,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8594769,-1.326553,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8831692,-1.3344343,industrial,nairobi city,starehe,industry
+unknown,unknown,36.857692,-1.3089578,industrial,nairobi city,langata,industry
+unknown,unknown,36.8594326,-1.3038626,industrial,nairobi city,langata,industry
+unknown,unknown,36.8588929,-1.3036328,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8633943,-1.3046569,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8639824,-1.3035996,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8711583,-1.3042749,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8713285,-1.3055362,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8673679,-1.3057734,industrial,nairobi city,starehe,industry
+enterprise road,unknown,36.8615588,-1.3069962,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8632539,-1.3057806,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8634034,-1.3068768,industrial,nairobi city,makadara,industry
+unknown,unknown,37.0035484,-1.2401365,industrial,nairobi city,starehe,industry
+unknown,unknown,36.9882701,-1.2417084,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8432123,-1.3025538,industrial,nairobi city,starehe,industry
+unknown,kenya wines agency (k.w.a.l),36.8417326,-1.3086592,industrial,nairobi city,starehe,industry
+unknown,coca cola juices,36.8565046,-1.3043267,industrial,nairobi city,starehe,industry
+unknown,british american tobacco kenya ltd,36.8553214,-1.3047672,industrial,nairobi city,langata,industry
+unknown,unknown,36.8537345,-1.3048442,industrial,nairobi city,langata,industry
+unknown,unknown,36.8538038,-1.3053264,industrial,nairobi city,langata,industry
+unknown,unknown,36.8536327,-1.304074,industrial,nairobi city,langata,industry
+unknown,unknown,36.8534898,-1.3022686,industrial,nairobi city,langata,industry
+unknown,unknown,36.8555177,-1.3065725,industrial,nairobi city,langata,industry
+mombasa road,unknown,36.8558227,-1.3087007,industrial,nairobi city,langata,industry
+mombasa road,unknown,36.8458003,-1.3061685,industrial,nairobi city,langata,industry
+nairobi park east gate road,unknown,36.8489036,-1.3038555,industrial,nairobi city,langata,industry
+nairobi park east gate road,unknown,36.8460289,-1.3035739,industrial,nairobi city,langata,industry
+unknown,unknown,36.8366446,-1.2952008,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8268153,-1.2964809,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8494608,-1.3080931,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8511916,-1.3093403,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8509145,-1.3071678,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8505476,-1.304412,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8506816,-1.3054307,industrial,nairobi city,kasarani,industry
+likoni road,unknown,36.8523254,-1.3060798,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8504569,-1.3038862,industrial,nairobi city,njiru,industry
+unknown,unknown,36.8423146,-1.306223,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8629344,-1.3035001,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8647132,-1.3064578,industrial,nairobi city,embakasi,industry
+kasarani mwiki road,unknown,36.8688217,-1.3061199,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8686292,-1.3047786,industrial,nairobi city,kasarani,industry
+kasarani mwiki road,unknown,36.8710283,-1.303317,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8763788,-1.304383,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8806455,-1.3036612,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8790342,-1.303304,industrial,nairobi city,langata,industry
+unknown,unknown,36.8791947,-1.307487,industrial,nairobi city,langata,industry
+unknown,pembe flour mills limited,36.8802322,-1.3073407,industrial,nairobi city,kasarani,industry
+old mombosa road,unknown,36.8715496,-1.3084439,industrial,nairobi city,langata,industry
+old mombosa road,unknown,36.8705691,-1.3085813,industrial,nairobi city,langata,industry
+unknown,unknown,36.8692409,-1.3087286,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8720016,-1.3098138,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8656541,-1.309063,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8594746,-1.3113872,industrial,nairobi city,makadara,industry
+stima lane,unknown,36.857884,-1.3116204,industrial,nairobi city,westlands,industry
+tala road,unknown,36.8597082,-1.3085996,industrial,nairobi city,westlands,industry
+unknown,unknown,36.8579788,-1.3051023,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.9194765,-1.1872022,industrial,nairobi city,kasarani,industry
+oloitokitok road,unknown,36.911112,-1.188048,industrial,nairobi city,westlands,industry
+likoni road,unknown,36.9057757,-1.3663225,industrial,nairobi city,starehe,industry
+uhuru highway,unknown,36.8255718,-1.3270544,industrial,nairobi city,starehe,industry
+commercial street,unknown,36.8307477,-1.3266153,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8307772,-1.3267722,industrial,nairobi city,njiru,industry
+kangundo road,unknown,36.8308094,-1.3269223,industrial,nairobi city,njiru,industry
+mombasa road,unknown,36.8308289,-1.3270699,industrial,nairobi city,starehe,industry
+enterprise road,unknown,36.9090628,-1.3550652,industrial,nairobi city,embakasi,industry
+enterprise road,factory workshop,36.8429664,-1.3032745,industrial,nairobi city,embakasi,industry
+kangundo road,factory blocks,36.8428335,-1.3034948,industrial,nairobi city,njiru,industry
+kangundo road,unknown,36.9097652,-1.2371767,industrial,nairobi city,njiru,industry
+kangundo road,kbc radio transmisison site,36.7507694,-1.3564626,industrial,nairobi city,njiru,industry
+old mombosa road,unknown,36.7703154,-1.2830033,industrial,nairobi city,langata,industry
+old mombosa road,unknown,36.9167458,-1.3077669,industrial,nairobi city,langata,industry
+old mombasa road,factory street,36.8333954,-1.2883087,industrial,nairobi city,langata,industry
+old mombasa road,unknown,36.8840172,-1.3018151,industrial,nairobi city,langata,industry
+kasarani mwiki road,unknown,36.7283477,-1.2611265,industrial,nairobi city,kasarani,industry
+kasarani mwiki road,velpal em ltd,36.8727909,-1.3185536,industrial,nairobi city,kasarani,industry
+clay city masournets,tanad transporters ltd,36.8729985,-1.3186068,industrial,nairobi city,kasarani,industry
+unknown,eas juja ltd,36.873441,-1.3189205,industrial,nairobi city,starehe,industry
+unknown,bamburi cement ltd-ruben,36.8669598,-1.3188024,industrial,nairobi city,makadara,industry
+unknown,meds ltd-rubed,36.8680492,-1.3191817,industrial,nairobi city,starehe,industry
+mombasa road,ng'ombe industry-ruben,36.867654,-1.3190672,industrial,nairobi city,embakasi,industry
+mombasa road,roll mill ltd-ruben,36.8690335,-1.3199152,industrial,nairobi city,embakasi,industry
+unknown,roto moulders ltd,36.8642084,-1.3170488,industrial,nairobi city,westlands,industry
+kangundo road,sun flower ltd-ruben,36.8719023,-1.3210096,industrial,nairobi city,njiru,industry
+unknown,wood product ltd-ruben,36.8697392,-1.3202429,industrial,nairobi city,njiru,industry
+unknown,accrow industry,36.8695498,-1.3233382,industrial,nairobi city,langata,industry
+unknown,elite tools industry,36.8692427,-1.32518,industrial,nairobi city,langata,industry
+unknown,ellys chemicals industry,36.8650582,-1.3203685,industrial,nairobi city,langata,industry
+unknown,ganijee glassmart company,36.8646195,-1.3200878,industrial,nairobi city,langata,industry
+unknown,general plastics company,36.8680513,-1.3218035,industrial,nairobi city,makadara,industry
+unknown,hydro well service company,36.8660021,-1.3203022,industrial,nairobi city,njiru,industry
+unknown,unknown,36.8654175,-1.3212904,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8651936,-1.3215234,industrial,nairobi city,embakasi,industry
+unknown,kenya hoticultural export,36.8674846,-1.3233496,industrial,nairobi city,kasarani,industry
+unknown,kenya litho company,36.8638017,-1.3191907,industrial,nairobi city,embakasi,industry
+unknown,mac loy company,36.8642673,-1.3197732,industrial,nairobi city,embakasi,industry
+unknown,marshall fowler industry,36.8683081,-1.3223381,industrial,nairobi city,embakasi,industry
+unknown,mech cussion industry,36.8656591,-1.3208855,industrial,nairobi city,embakasi,industry
+unknown,nas service industry,36.8692085,-1.3226579,industrial,nairobi city,embakasi,industry
+unknown,nas service industry,36.8689571,-1.3232747,industrial,nairobi city,langata,industry
+unknown,silencer industry,36.8669929,-1.3208504,industrial,nairobi city,langata,industry
+unknown,swan transporters,36.8676628,-1.3215284,industrial,nairobi city,langata,industry
+unknown,tarpo tents industry,36.8691785,-1.3243733,industrial,nairobi city,langata,industry
+unknown,century motor world company,36.8628526,-1.3187228,industrial,nairobi city,starehe,industry
+unknown,east african sea foods company,36.8619283,-1.3179181,industrial,nairobi city,starehe,industry
+unknown,express kenya ltd,36.8570743,-1.3180392,industrial,nairobi city,starehe,industry
+unknown,g4s solutions service industry,36.8592362,-1.3140673,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8617916,-1.3113847,industrial,nairobi city,langata,industry
+unknown,nabico industry,36.8584809,-1.3151728,industrial,nairobi city,langata,industry
+unknown,unknown,36.8606765,-1.3187394,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8625788,-1.3193053,industrial,nairobi city,makadara,industry
+unknown,keringet company,36.8630117,-1.3183625,industrial,nairobi city,makadara,industry
+unknown,paper converters company,36.8612718,-1.3188202,industrial,nairobi city,makadara,industry
+unknown,paper industry,36.8578426,-1.3160629,industrial,nairobi city,makadara,industry
+unknown,tetra park factory,36.8582244,-1.3134622,industrial,nairobi city,makadara,industry
+unknown,vagas company ltd,36.8610989,-1.3174812,industrial,nairobi city,makadara,industry
+unknown,daima industry,36.8612817,-1.312998,industrial,nairobi city,makadara,industry
+unknown,hydro water well,36.860474,-1.3132018,industrial,nairobi city,makadara,industry
+unknown,chicken feeds company,36.8615324,-1.3156348,industrial,nairobi city,makadara,industry
+unknown,diesel injections company,36.8618577,-1.3153434,industrial,nairobi city,makadara,industry
+unknown,gachanja stores/wholesallers,36.8622124,-1.3149163,industrial,nairobi city,embakasi,industry
+unknown,garage,36.8623692,-1.3147654,industrial,nairobi city,njiru,industry
+unknown,he-halls company,36.8616954,-1.3154806,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8608465,-1.3139921,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.86091,-1.3143459,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8610465,-1.3145828,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8620771,-1.3150761,industrial,nairobi city,makadara,industry
+likoni road,unknown,36.8620102,-1.3151553,industrial,nairobi city,starehe,industry
+unknown,unknown,36.861921,-1.3152458,industrial,nairobi city,starehe,industry
+unknown,unique touch body company,36.8617764,-1.3154148,industrial,nairobi city,starehe,industry
+unknown,southern cross safaris,36.861641,-1.3155658,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8634284,-1.3128055,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8629793,-1.3131505,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8642135,-1.3141591,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8640667,-1.3141816,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8639125,-1.3142305,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8640741,-1.3142443,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8641692,-1.314298,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8643114,-1.314315,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8643748,-1.3143437,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8642085,-1.314351,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8648577,-1.3143874,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8640754,-1.314484,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8643053,-1.3144865,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8645086,-1.3145023,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8637414,-1.3145228,industrial,nairobi city,starehe,industry
+unknown,unknown,36.863889,-1.3146002,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8649292,-1.3146588,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8646514,-1.3146476,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8640912,-1.3148034,industrial,nairobi city,makadara,industry
+unknown,unknown,36.864574,-1.3148104,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8644027,-1.3150293,industrial,nairobi city,makadara,industry
+unknown,andy kenya ltd,36.8675052,-1.3170296,industrial,nairobi city,makadara,industry
+unknown,bs monhindra company,36.8689321,-1.3176035,industrial,nairobi city,makadara,industry
+unknown,epco ltd,36.8712755,-1.3192692,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8715898,-1.3182801,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8715415,-1.3183544,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8720847,-1.3183788,industrial,nairobi city,makadara,industry
+lunga lunga road,unknown,36.8714845,-1.3184349,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8714337,-1.3185439,industrial,nairobi city,makadara,industry
+unknown,unknown,36.872075,-1.3186474,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8713469,-1.3186653,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8719153,-1.3189087,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8718475,-1.3190175,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8701503,-1.319477,industrial,nairobi city,makadara,industry
+unknown,sea bed transporters,36.8697111,-1.3181686,industrial,nairobi city,makadara,industry
+likoni road,wood product industry,36.8702855,-1.3204187,industrial,nairobi city,makadara,industry
+unknown,wood product industry,36.8708073,-1.3205889,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8720744,-1.3196884,industrial,nairobi city,makadara,industry
+unknown,unknown,36.8719734,-1.3197966,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8737946,-1.320569,industrial,nairobi city,kasarani,industry
+unknown,unknown,36.8733619,-1.32088,industrial,nairobi city,langata,industry
+unknown,unknown,36.8738713,-1.3209611,industrial,nairobi city,langata,industry
+unknown,unknown,36.8891234,-1.3250165,industrial,nairobi city,langata,industry
+unknown,unknown,36.8890821,-1.3252122,industrial,nairobi city,langata,industry
+unknown,unknown,36.8891324,-1.3253917,industrial,nairobi city,langata,industry
+unknown,unknown,36.8882616,-1.3257308,industrial,nairobi city,langata,industry
+unknown,unknown,36.8882536,-1.3259356,industrial,nairobi city,langata,industry
+unknown,unknown,36.8883525,-1.3259815,industrial,nairobi city,langata,industry
+unknown,unknown,36.8882701,-1.3259892,industrial,nairobi city,langata,industry
+unknown,unknown,36.888553,-1.3259966,industrial,nairobi city,langata,industry
+unknown,unknown,36.8892394,-1.3252755,industrial,nairobi city,langata,industry
+unknown,unknown,36.8887947,-1.3254582,industrial,nairobi city,langata,industry
+unknown,unknown,36.8883516,-1.3255833,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8883102,-1.3256626,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8884786,-1.3258226,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8894218,-1.3258681,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8886276,-1.3258782,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8881894,-1.3261116,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8884552,-1.3261798,industrial,nairobi city,langata,industry
+unknown,industy,36.8797088,-1.3262124,industrial,nairobi city,langata,industry
+unknown,industy,36.8798185,-1.3268083,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8636716,-1.3089591,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8669739,-1.3102257,industrial,nairobi city,kasarani,industry
+unknown,deepa industry,36.868002,-1.3102727,industrial,nairobi city,langata,industry
+unknown,unknown,36.8644458,-1.3104728,industrial,nairobi city,langata,industry
+unknown,unknown,36.8655079,-1.3107136,industrial,nairobi city,westlands,industry
+unknown,unknown,36.8665354,-1.3110312,industrial,nairobi city,embakasi,industry
+unknown,acc - accurate steel mills,36.8738407,-1.3177798,industrial,nairobi city,starehe,industry
+unknown,gateway ltd,36.8734296,-1.3180604,industrial,nairobi city,makadara,industry
+unknown,gateway ltd,36.8735145,-1.3183181,industrial,nairobi city,westlands,industry
+unknown,hillocks commercials,36.8653742,-1.319119,industrial,nairobi city,makadara,industry
+unknown,unknown,36.874138,-1.3151998,industrial,nairobi city,starehe,industry
+unknown,unknown,36.8738636,-1.3152846,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8739016,-1.3155271,industrial,nairobi city,embakasi,industry
+unknown,distel wine matters,36.8632135,-1.3168758,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8659614,-1.3174598,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8668099,-1.3172841,industrial,nairobi city,embakasi,industry
+unknown,unknown,36.8665055,-1.3182296,industrial,nairobi city,embakasi,industry
+unknown,timsales limited,36.8486129,-1.3098572,industrial,nairobi city,embakasi,industry
+unknown,timsales limited,36.8480312,-1.310238,industrial,nairobi city,embakasi,industry
+unknown,timsales limited,36.8490968,-1.3103204,industrial,nairobi city,embakasi,industry
+unknown,ufundi paper ltd,36.847904,-1.3094023,industrial,nairobi city,embakasi,industry
+unknown,chemid,36.8691572,-1.3075241,industrial,nairobi city,embakasi,industry
+unknown,print pak company,36.8557116,-1.3033468,industrial,nairobi city,embakasi,industry
+unknown,sun flag textiles,36.8689592,-1.3085896,industrial,nairobi city,embakasi,industry
+unknown,timber yard,36.8559677,-1.3152334,industrial,nairobi city,embakasi,industry
+unknown,industiries,36.8631228,-1.3326281,industrial,nairobi city,embakasi,industry
+unknown,kenafric industries limited,36.8805221,-1.245419,industrial,nairobi city,embakasi,industry
+unknown,sihoho engineering workshop,36.8946475,-1.2400502,industrial,nairobi city,embakasi,industry
+unknown,danfahi welding,36.8830749,-1.246858,industrial,nairobi city,embakasi,industry
+unknown,kenya literature bureau,36.8301646,-1.3243144,industrial,nairobi city,embakasi,industry
+unknown,specialised towel manufacturers,36.859425,-1.3063727,industrial,nairobi city,embakasi,industry
+unknown,pan african agribusiness& agroindustry consortium,36.8490977,-1.2343675,industrial,nairobi city,starehe,industry
+unknown,lugoda tea factory,36.6892323,-1.3096191,industrial,nairobi city,starehe,industry
+unknown,plaspak,36.8653774,-1.3233731,industrial,nairobi city,starehe,industry
+unknown,simbisa brands kenya,36.8676197,-1.3350729,industrial,nairobi city,starehe,industry
+enterprise road,alpha grain millers,36.8896604,-1.3292638,industrial,nairobi city,starehe,industry
+unknown,autoxpress x-tread retreading factory and tms division,36.900747,-1.3461402,industrial,nairobi city,starehe,industry
+unknown,saj ceramics,36.8423118,-1.2302775,industrial,nairobi city,starehe,industry
+unknown,ashut plastics ltd head office,36.8580291,-1.3055551,industrial,nairobi city,starehe,industry
+unknown,asl packaging limited,36.8797916,-1.3283885,industrial,nairobi city,starehe,industry
+unknown,asl ltd - trading division,36.8391957,-1.2973367,industrial,nairobi city,starehe,industry
+unknown,aquawetts enterprises ltd,36.8581885,-1.3194764,industrial,nairobi city,starehe,industry
+enterprise road,astral pipes ltd,36.8675648,-1.3344744,industrial,nairobi city,starehe,industry
+unknown,basco products (k) ltd,36.9038923,-1.320765,industrial,nairobi city,starehe,industry
+unknown,bhachu industries ltd,36.8705773,-1.3228577,industrial,nairobi city,starehe,industry
+unknown,bio food products ltd,36.8623205,-1.3276311,industrial,nairobi city,starehe,industry
+unknown,brass & allied works ltd,36.8449311,-1.3102118,industrial,nairobi city,starehe,industry
+unknown,buildpus masters ltd,36.8178275,-1.2597736,industrial,nairobi city,starehe,industry
+unknown,reliable electrical engineers (nrb) ltd.,36.8635926,-1.3254725,industrial,nairobi city,starehe,industry
+unknown,maruti steel ltd,36.8391189,-1.2991231,industrial,nairobi city,starehe,industry
+unknown,megh cushions industries,36.8658132,-1.3201575,industrial,nairobi city,starehe,industry
+unknown,millenium steel ltd,36.8487842,-1.3114187,industrial,nairobi city,starehe,industry
+unknown,radheshyam transport (kwa muindi),36.9056416,-1.2989552,industrial,nairobi city,makadara,industry
+unknown,enrich equipment ltd.,36.9027777,-1.2990321,industrial,nairobi city,makadara,industry
+unknown,kensalt ltd -nairobi branch,36.9212607,-1.3138437,industrial,nairobi city,makadara,industry
+unknown,osho chemical industries ltd,36.8721173,-1.3079242,industrial,nairobi city,starehe,industry
+unknown,the flower factory,36.7039364,-1.3228161,industrial,nairobi city,starehe,industry
+unknown,chandaria industries limited,36.8850176,-1.2443729,industrial,nairobi city,starehe,industry
+unknown,pegler paints hq,36.8701594,-1.3045378,industrial,nairobi city,starehe,industry
+unknown,ashut engineers ltd head office,36.8603485,-1.3100103,industrial,nairobi city,makadara,industry
+unknown,sana angels industry,36.8628527,-1.3098764,industrial,nairobi city,makadara,industry
+Ring Rd,Kamukunji Plastics,36.83194656,-1.280140971,industrial,nairobi city,kamukunji,industry
