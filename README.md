@@ -182,7 +182,7 @@ WHERE
 
 **Foster Domestic Industrial Growth & Regional Trade:** Implement policies that support the growth of local industries to spur economic development and reduce the trade imbalance between imports and exports. Leverage regional agreements like the African Continental Free Trade Area (AfCFTA) to enhance collaboration and trade with neighboring African countries.
 
-**Strategic Infrastructure & Land Use Planning:** Recognize that "Low Development" sub-counties (e.g., Kibra, Mathare) often face land scarcity or restrictive zoning laws (e.g., Westlands) for industrial setup. Stakeholders should therefore prioritize developing efficient inter-subcounty transport infrastructure, such as trams, railways, or metro systems, connecting these areas to existing or planned industrial hubs such as Athi River, Kajiado, Ruiru, Thika or agricultural zones.
+**Strategic Infrastructure & Land Use Planning:** Recognize that "Low Development" sub-counties (e.g., Kibra, Mathare) often face land scarcity or restrictive zoning laws (e.g., Westlands) for industrial setup. Stakeholders should therefore prioritize developing efficient inter-county transport infrastructure, such as trams, railways, or metro systems, connecting these areas to existing or planned industrial hubs such as Athi River, Kajiado, Ruiru, Thika or agricultural zones.
 
 **Leverage Community & Faith-Based Organizations:** Actively engage with local community leaders, including religious institutions, to identify specific local needs and foster collaborative development initiatives. The extensive network of religious centers can serve a dual purpose: facilitating faith activities and acting as vital hubs for training and empowerment programs.
 
