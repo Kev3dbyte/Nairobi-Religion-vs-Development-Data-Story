@@ -192,9 +192,11 @@ WHERE
 
 ## Future Work
 
-The next phase of this comprehensive project aims to broaden the scope by examining development dynamics in Japan and China. These nations offer a compelling comparative study, given their high levels of development and distinct societal approaches to religion.
+The next phase of this comprehensive project aims to broaden the scope by examining development dynamics in Japan and China. These nations offer a compelling comparative study, given their high levels of human development and distinct societal approaches to religion. For instance, a significant portion of the Japanese population (over 60%) and the Chinese population (over 70%) identify as unaffiliated or practicing traditional folk religions, yet both consistently rank high in terms of Human Development Index (Japan HDI: 0.920; China HDI: 0.788).
 
-**This comparative analysis will investigate:**
+This stands in stark contrast with many African nations, including Kenya, where Kenya's population is estimated to be over 85% Christian and 11% Muslim, indicating high overall religious adherence often correlates with lower development indicators. This glaring disparity highlights a critical need for African countries to complement their deep-rooted religiosity with focused investment in industrial growth and skill development. This approach will lead to a well-rounded society that values faith while simultaneously ensuring dignity and opportunity for its people through robust economic infrastructure.
+
+**This comparative analysis will therefore investigate:**
 - Youth Unemployment Rates: How do these nations compare in addressing youth unemployment?
 - Religious vs. Development Infrastructure: A detailed comparison of the density and distribution of religious centers versus formal development infrastructure (industries and empowerment centers).
 
