@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-This project explores the relationship between religious center density vs industries and empowermwnt centers normalized by youth population across Nairobi sub-counties in Kenya. It aims to visualize and analyze the disparities, particularly focusing on the glaring imbalance where "hope" represented by religious centers is everywhere while "opportunities" represented by industries and empowerment centers are limited for the youths who desparately need them to skill up and find jobs suggesting an underinvestment in critical development sectors compared to religious infrastructure across the city. 
+This project explores the relationship between religious center density vs industries and empowermwnt centers normalized by youth population across Nairobi sub-counties in Kenya. It aims to visualize and analyze the disparities, particularly focusing on the glaring imbalance where "hope" represented by religious centers is everywhere while "opportunities" represented by industries and empowerment centers are limited for the youths who desperately need them to skill up and find jobs suggesting an underinvestment in critical development sectors compared to religious infrastructure across the city. 
 
 **Explore the full interactive dashboard on Tableau Public here:**
 [Dashboard](https://public.tableau.com/shared/BNY5TQCMY?:display_count=n&:origin=viz_share_link)
@@ -214,6 +214,12 @@ This comparative analysis will test the hypothesis that African societies often 
 | **Religious Centers per 10k Youth** | The number of religious centers available for every 10,000 youth in a given subcounty. This metric normalizes religious infrastructure against youth population density. |
 | **Development Centers per 10k Youth** | The combined count of industries and empowerment centers available per 10,000 youth in a subcounty. Indicates infrastructural readiness to absorb and skill the youth. |
 
+---
+## Contact & Collaboration
+
+I'm open to opportunities in Data Analysis, GIS Projects, and Data Storytelling roles across Africa and globally.
+
+Feel free to connect on [LinkedIn](www.linkedin.com/in/kevin-majaliwa-117bb1aa) or reach out via email at [kevinmajaliwa45@gmail.com].
 
 
 
