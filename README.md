@@ -73,12 +73,21 @@ out center;
 ## Methodology
 
 1.  **Data Acquisition:**
-   - Utilized web scraping techniques to collect raw data on various establishments.
-   - Aggregated Nairobi youth population from KNBS 2019 census as per sub-county boundary data.
-2. **Data Cleaning & Preprocessing**
+* Utilized web scraping techniques to collect raw data on various establishments.
+* Aggregated Nairobi youth population from KNBS 2019 census as per sub-county boundary data.
+2.  **Spatial Data Assignment (GeoJSON Mapping with Python)**
+
+While the scraped data contained only longitude and latitude coordinates, it was essential to assign each point (religious centers, industries, institutions) to their respective Nairobi subcounties.
+
+To achieve this:
+i. I obtained a [GeoJSON file]() with Nairobi subcounty polygon boundaries.
+ii. Using **Python scripts**, I performed a **Point-in-Polygon spatial join**, mapping each lat/lon coordinate to its corresponding subcounty.
+iii. This process ensured every facility was accurately categorized under its administrative subcounty, enabling precise aggregation and visualization.
+  
+3. **Data Cleaning & Preprocessing**
    - **Initial Cleaning:** Performed extensive data cleaning in **Microsoft Excel** using various functions such as TRIM(), CONCATENATE(), UPPER(), LOWER(), REMOVE DUPLICATES Tool, Data Validation, Filter & Advanced Filter to handle inconsistencies, missing values, and formatting issues which is inherent in scraped data.
    - **Transformation & Aggregation:** Utilized **SQL (Structured Query Language)** for more complex data transformations and aggregations such as counting centers per sub-county, calculating ratios per 10,000 youth), and merging disparate datasets. This ensured handling messy data and ensuring data integrity.
-3. **Data Analysis & Feature Engineering:**
+4. **Data Analysis & Feature Engineering:**
      - Calculated key metrics such as "Religious Centers per 10,000 Youth," "Development Centers (Industries + Institutions) per 10,000 Youth.
 ```SQL
 --Industries, Religion, Industries per 10 000 youth
@@ -132,6 +141,8 @@ WHERE
 ## Tools & Technologies Used
 
 * **Data Acquisition:** Web Scrapping Tools (OpenStreetMap)
+* **GeoJSON** Polygon Data
+* **Python** (Shapely, Geopandas libraries)
 * **Data Cleaning & Transformation:** Microsoft Excel, SQL
 * **Data Analysis:** SQL
 * **Data Visualization & Dashboarding:** Tableau Public
