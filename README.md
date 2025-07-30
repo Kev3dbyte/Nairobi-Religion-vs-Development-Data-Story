@@ -13,6 +13,7 @@
 - [Recommendations](#recommendations)
 - [Future Work](#future-work)
 - [Definition of Terms](#definition-of-terms)
+- [Contact Information](#Contact--Collaboration)
 
 ## Project Overview
 
