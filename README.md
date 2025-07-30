@@ -83,7 +83,7 @@ While the scraped data contained only longitude and latitude coordinates, it was
 
 i. I obtained a [GeoJSON file](Data/raw_data/Nairobi_Subcounties.geojson) with Nairobi subcounty polygon boundaries.
 
-ii. Using **Python scripts**, I performed a **Point-in-Polygon spatial join**, mapping each lat/lon coordinate to its corresponding subcounty.
+ii. Using Python scripts, I performed a Point-in-Polygon spatial join, mapping each lat/lon coordinate to its corresponding subcounty.
 
 iii. This process ensured every facility was accurately categorized under its administrative subcounty, enabling precise aggregation and visualization.
   
