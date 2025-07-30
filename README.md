@@ -77,9 +77,8 @@ out center;
 * Aggregated Nairobi youth population from KNBS 2019 census as per sub-county boundary data.
 2.  **Spatial Data Assignment (GeoJSON Mapping with Python)**
 
-While the scraped data contained only longitude and latitude coordinates, it was essential to assign each point (religious centers, industries, institutions) to their respective Nairobi subcounties.
+While the scraped data contained only longitude and latitude coordinates, it was essential to assign each point (religious centers, industries, institutions) to their respective Nairobi subcounties. To achieve this:
 
-To achieve this:
 i. I obtained a [GeoJSON file](Data/raw_data/Nairobi_Subcounties.geojson) with Nairobi subcounty polygon boundaries.
 
 ii. Using **Python scripts**, I performed a **Point-in-Polygon spatial join**, mapping each lat/lon coordinate to its corresponding subcounty.
