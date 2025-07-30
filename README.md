@@ -16,7 +16,7 @@
 
 ## Project Overview
 
-This project explores the relationship between religious center density—industries and empowermwnt centers and youth population across sub-counties in Nairobi, Kenya. It aims to visualize and analyze the disparities, particularly focusing on the apparent imbalance where "hope" represented by religious centers is everywhere, but "opportunities" represented by industries and empowerment centers are scarce for youths which suggest an underinvestment in critical development sectors compared to religious infrastructure.
+This project explores the relationship between religious center density vs industries and empowermwnt centers normalized by youth population across Nairobi sub-counties in Kenya. It aims to visualize and analyze the disparities, particularly focusing on the glaring imbalance where "hope" represented by religious centers is everywhere while "opportunities" represented by industries and empowerment centers are limited for the youths who desparately need them to skill up and find jobs suggesting an underinvestment in critical development sectors compared to religious infrastructure across the city. 
 
 **Explore the full interactive dashboard on Tableau Public here:**
 [Dashboard](https://public.tableau.com/shared/BNY5TQCMY?:display_count=n&:origin=viz_share_link)
