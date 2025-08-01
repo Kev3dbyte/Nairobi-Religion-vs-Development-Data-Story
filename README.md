@@ -150,10 +150,7 @@ WHERE
 * **Data Cleaning & Transformation:** Microsoft Excel, SQL
 * **Data Analysis:** SQL
 * **Data Visualization & Dashboarding:** Tableau Public
-* **Project Documentation:**
-                      * [Notion]()
-  
-                      * [Medium]()
+* **Project Documentation:** [Notion](https://www.notion.so/Religion-vs-Development-A-Data-Project-on-Nairobi-Development-Priorities-22acaea274e98055b6fec09aaf0bd780?source=copy_link) AND. [Medium](https://medium.com/@kevinmajaliwa/518a2b1865e8)
 
 ## Limitations
 
